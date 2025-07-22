@@ -136,3 +136,8 @@ This project was a collaborative effort by a talented team:
 * **Anagha Sunny**
 * **Arjun K A**
 
+
+
+## 📄 License
+
+This project is open-sourced under the **MIT License**. See the full license text in the [LICENSE](LICENSE) file for more details.
