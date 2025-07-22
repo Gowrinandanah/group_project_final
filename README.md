@@ -89,7 +89,7 @@ MONGO_URL=your_mongodb_connection_string
 
 ```bash
 # Install backend dependencies
-cd project_backend
+cd backend_project
 npm install
 
 # Start backend server
