@@ -102,7 +102,7 @@ MONGO_URL=your_mongodb_atlas_connection_string
 1.  **Backend Setup:**
     ```bash
     # Navigate to the backend directory
-    cd BACKEND_PROJECT
+    cd backend_project
 
     # Install all necessary backend dependencies
     npm install
@@ -114,7 +114,7 @@ MONGO_URL=your_mongodb_atlas_connection_string
 2.  **Frontend Setup:**
     ```bash
     # Navigate to the frontend directory
-    cd PROJECT
+    cd project
 
     # Install all necessary frontend dependencies
     npm install
