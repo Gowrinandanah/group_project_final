@@ -131,7 +131,7 @@ MONGO_URL=your_mongodb_atlas_connection_string
 
 This project was a collaborative effort by a talented team:
 
-* **Gowri Nandana H**
+* **Gowri Nandana H(nandanag625@gmail.com**
 * **Gowri Lakshmi J**
 * **Anagha Sunny**
 * **Arjun K A**
